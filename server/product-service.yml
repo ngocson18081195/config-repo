@@ -1,4 +1,5 @@
-app.service-name = Product Service
+example = "Product service"
+#app.service-name = Product Service
 
 #example.property: "I AM IN THE DEFAULT"
 #spring.jpa.database: "POSTGRESQL"
