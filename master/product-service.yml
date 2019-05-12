@@ -1,3 +1,4 @@
-app.service-name = "Product Service"
 example.property: "I AM THE DEFAULT"
+app:
+  service-name: "Product Service"
 
